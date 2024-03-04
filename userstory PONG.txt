@@ -1,0 +1,14 @@
+Applied Design patterns
+Pong
+User Story
+
+Als een gebruiker wil ik kleuren binnen de applicatie zodat het er aantrekkelijker uitziet.
+acceptatie criteria:
+1. leuke kleuren inplaats van zwart/wit.
+2. bal flitst van kleur als het stuitert.
+
+Als een gebruiker wil ik een scoreboard zodat het makkelijker bij te houden is.
+acceptatie criteria:
+1. de score tot aan (x) door laten lopen.
+2. namen bij de scoreboard kunnen zetten.
+
